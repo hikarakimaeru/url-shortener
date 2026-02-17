@@ -80,6 +80,6 @@ class UrlShortenerServiceTest {
 
         Optional<String> longUrl = service.getLongUrl(key);
 
-        assertFalse(longUrl.isPresent());
+        assertTrue(longUrl.isEmpty());
     }
 }
