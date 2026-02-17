@@ -1,12 +1,9 @@
 package com.vlad.demo.service;
 
-import com.vlad.demo.Model.Urls;
+import com.vlad.demo.model.Urls;
 import com.vlad.demo.repository.UrlRepository;
-import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
-import org.springframework.web.server.ResponseStatusException;
 
-import java.net.URI;
 import java.util.Optional;
 import java.util.Random;
 

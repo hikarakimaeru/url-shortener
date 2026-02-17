@@ -1,4 +1,4 @@
-package com.vlad.demo.Model;
+package com.vlad.demo.model;
 
 import jakarta.persistence.*;
 

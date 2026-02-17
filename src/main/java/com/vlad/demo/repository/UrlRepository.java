@@ -1,6 +1,6 @@
 package com.vlad.demo.repository;
 
-import com.vlad.demo.Model.Urls;
+import com.vlad.demo.model.Urls;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

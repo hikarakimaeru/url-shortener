@@ -1,7 +1,7 @@
 package com.vlad.demo.controller;
 
-import com.vlad.demo.DTO.UrlRequestDTO;
-import com.vlad.demo.DTO.UrlResponseDTO;
+import com.vlad.demo.dto.UrlRequestDTO;
+import com.vlad.demo.dto.UrlResponseDTO;
 import com.vlad.demo.service.UrlShortenerService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Value;

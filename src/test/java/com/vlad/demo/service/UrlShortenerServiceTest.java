@@ -1,8 +1,7 @@
 package com.vlad.demo.service;
 
-import com.vlad.demo.Model.Urls;
+import com.vlad.demo.model.Urls;
 import com.vlad.demo.repository.UrlRepository;
-import jakarta.validation.constraints.NotNull;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;
