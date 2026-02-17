@@ -7,7 +7,7 @@ Built with **Spring Boot**, **Spring Data JPA**, and **PostgreSQL**, with full *
 
 ## Technologies
 
-- Java 24
+- Java 17
 - Spring Boot 4
 - Spring Data JPA / Hibernate
 - PostgreSQL
